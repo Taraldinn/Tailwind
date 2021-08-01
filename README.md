@@ -8,15 +8,11 @@ So this boilerplate has all the configuration to save your time from this boring
 
 ##Start
 
-`
-git clone this_repository
-`
-`
-cd this_directory
-`
-`
-npm
-`
-`
-npm run dev
-`
+
+>git clone this_repository
+
+>cd this_directory
+
+>npm install
+
+>npm run dev
